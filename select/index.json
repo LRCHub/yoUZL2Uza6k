@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Buster call",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-11T09:26:33.351970Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Buster call",
+      "artist": "04 Limited Sazabys",
+      "has_synced": true,
+      "path": "select/01_Buster_call_04_Limited_Sazabys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "buster call",
+      "artist": "04 Limited Sazabys",
+      "has_synced": true,
+      "path": "select/02_buster_call_04_Limited_Sazabys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Buster call",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_Buster_call_04_Limited_Sazabys.txt"
+    }
+  ]
+}
